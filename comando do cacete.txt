@@ -1,0 +1,1 @@
+chmod -R a+rw /home/vini/projeto-go-testes
