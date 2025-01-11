@@ -47,6 +47,8 @@ func TestVerificaStatusCodeDaSaudacaoComParametro(t *testing.T) {
 	assert.Equal(t, mockDaResposta, string(respostaBody))
 }
 
+/* asdas */
+
 func TestListaTodosOsAlunosHanlder(t *testing.T) {
 	database.ConectaComBancoDeDados()
 	CriaAlunoMock()
